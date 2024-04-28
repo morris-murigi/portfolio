@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Forest Fire Detection and Alarm System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated to develop a prototype of a forest fire early detection and alarm system utilizing satellite imagery and ground-based sensors.",
+    url: "https://www.youtube.com/watch?v=VVQisS6v7VI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Enhancing Agricultural Support for Small Scale Farmers in Kenya.",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This paper presents a mini weather station device as a data collector for a machine learning model, aiming to support the Kenyan agricultural sector through small-scale farmers",
+    url: "https://edas.info/showPaper.php?m=1570955175",
   },
   {
     title: "My Resume Site",
