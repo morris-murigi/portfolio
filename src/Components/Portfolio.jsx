@@ -43,16 +43,16 @@ const projectList = [
     url: "https://edas.info/showPaper.php?m=1570955175",
   },
   {
-    title: "My Resume Site",
+    title: "MedicMavs Nutrition App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaborated to develop an app to help people in Kenya learn about nutrition and make healthier eating choices based on their health conditions and location.",
+    url: "https://devpost.com/software/inutri-app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mini Weather Station using GPRS and LoRa - iLabAfrica",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Colaborated to develop a compact weather monitoring station to address the issues encountered by small-scale farmers in Kenya.",
+    url: "https://dpm-platform.web.app/",
   },
 ];
 

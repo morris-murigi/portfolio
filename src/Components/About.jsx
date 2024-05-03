@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an Electrical and Electronics Engineering student studying at Strathmore University. I am passionate about leveraging cutting-edge technologies to create innovative solutions that address real-world challenges.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Programming: C, C++, Micropython (AVR, ESP32, STM32)",
+  "Embedded Systems: RTOS, Wired/Wireless Protocols",
+  "Circuit Simulation & PCB Design",
+  "Cloud Technologies: MQTT, HTTP, CoAP, Virtual Machines",
+  "Databases & APIs: InfluxDB, MongoDB, MariaDB, REST, GraphQL",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am deeply committed to solving challenges through the lens of first principles. With an analytical mind, I approach problems strategically, breaking down complexities into fundamental components. This approach not only enhances my problem-solving capabilities but also allows me to create innovative and enduring solutions. In both my professional and personal pursuits, I strive to embody the essence of engineering from first principles to drive meaningful impact and foster growth.";
 
 const About = () => {
   return (
