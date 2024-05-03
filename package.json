@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
-  "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "version": "1.0.1",
+  "description": "Morris Murigi",
   "source": "src/index.html",
   "homepage": "https://morris-murigi.github.io/portfolio",
   "scripts": {
