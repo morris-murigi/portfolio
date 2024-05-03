@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "morris-murigi",
   instagram: "morris.kiguru",
   linkedIn: "morris-murigi-4b412b1b7",
-  medium: "",
+  medium: "@murigi.morris.kiguru",
   twitter: "mo_kiguru",
-  youTube: "circuitit4612",
+  youTube: "UCD6ijTtQTYqfXtLwQbdx0Ww",
 };
 
 const primaryColor = "#4E567E";
